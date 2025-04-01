@@ -7,19 +7,19 @@
     <div class="hero-area-2">
       <!-- Shape -->
       <div class="hero-2-curbe-shape">
-        <img src="@/assets/img/bg-img/hero-2-shape.png" alt="">
+        <img src="/img/bg-img/hero-2-shape.png" alt="">
       </div>
       <div class="hero-2-shape-1 wow fadeInDown" data-wow-delay="900ms"
            style="visibility: visible; animation-delay: 900ms; animation-name: fadeInDown;">
-        <img src="@/assets/img/bg-img/home-2/shape-1.png" alt="">
+        <img src="/img/bg-img/home-2/shape-1.png" alt="">
       </div>
 
       <div class="hero-2-shape-2">
-        <img src="@/assets/img/bg-img/home-2/shape-2.png" alt="">
+        <img src="/img/bg-img/home-2/shape-2.png" alt="">
       </div>
 
       <div class="hero-2-shape-3">
-        <img src="@/assets/img/bg-img/home-2/shape-4.png" alt="">
+        <img src="/img/bg-img/home-2/shape-4.png" alt="">
       </div>
 
       <div class="container h-100">
@@ -45,16 +45,16 @@
 
           <div class="col-lg-7">
             <div class="welcome-img-2 text-center relative">
-              <img class="wel-img-2 wow fadeInUp" data-wow-delay="500ms" src="@/assets/img/bg-img/hero-2.png" alt=""
+              <img class="wel-img-2 wow fadeInUp" data-wow-delay="500ms" src="/img/bg-img/hero-2.png" alt=""
                    style="visibility: visible; animation-delay: 500ms; animation-name: fadeInUp;">
 
               <div class="shape-box">
-                <img src="@/assets/img/bg-img/home-2/shape-5.png" alt="">
+                <img src="/img/bg-img/home-2/shape-5.png" alt="">
               </div>
 
               <div class="bag-shape wow fadeInLeft" data-wow-delay="1000ms"
                    style="visibility: visible; animation-delay: 1000ms; animation-name: fadeInLeft;">
-                <img src="@/assets/img/bg-img/home-2/shape-3.png" alt="">
+                <img src="/img/bg-img/home-2/shape-3.png" alt="">
               </div>
             </div>
           </div>
@@ -81,11 +81,11 @@
                  style="visibility: visible; animation-delay: 700ms; animation-name: fadeInLeft;">
               <div class="care-shape wow fadeInDown" data-wow-delay="1400ms"
                    style="visibility: visible; animation-delay: 1400ms; animation-name: fadeInDown;">
-                <img src="@/assets/img/bg-img/home-2/care-shap.png" alt="">
+                <img src="/img/bg-img/home-2/care-shap.png" alt="">
               </div>
               <div class="care-card-img-content">
                 <div class="care-img">
-                  <img src="@/assets/img/bg-img/care-1.jpeg.jpg" alt="">
+                  <img src="/img/bg-img/care-1.jpeg.jpg" alt="">
                 </div>
 
                 <div class="care-content-text">
@@ -106,11 +106,11 @@
                  style="visibility: visible; animation-delay: 900ms; animation-name: fadeInLeft;">
               <div class="care-shape wow fadeInDown" data-wow-delay="1400ms"
                    style="visibility: visible; animation-delay: 1400ms; animation-name: fadeInDown;">
-                <img src="@/assets/img/bg-img/home-2/care-shap.png" alt="">
+                <img src="/img/bg-img/home-2/care-shap.png" alt="">
               </div>
               <div class="care-card-img-content">
                 <div class="care-img">
-                  <img src="@/assets/img/bg-img/care-2.jpeg.jpg" alt="">
+                  <img src="/img/bg-img/care-2.jpeg.jpg" alt="">
                 </div>
 
                 <div class="care-content-text">
@@ -131,11 +131,11 @@
                  style="visibility: visible; animation-delay: 1100ms; animation-name: fadeInLeft;">
               <div class="care-shape wow fadeInDown" data-wow-delay="1400ms"
                    style="visibility: visible; animation-delay: 1400ms; animation-name: fadeInDown;">
-                <img src="@/assets/img/bg-img/home-2/care-shap.png" alt="">
+                <img src="/img/bg-img/home-2/care-shap.png" alt="">
               </div>
               <div class="care-card-img-content">
                 <div class="care-img">
-                  <img src="@/assets/img/bg-img/care-3.jpeg.jpg" alt="">
+                  <img src="/img/bg-img/care-3.jpeg.jpg" alt="">
                 </div>
 
                 <div class="care-content-text">
@@ -152,10 +152,10 @@
       </div>
     </div>
     <div class="popular-cate-2-area bg-img bg-overlay relative"
-         style="background-image: url(@/assets/img/bg-img/popular.png);">
+         style="background-image: url(/img/bg-img/popular.png);">
       <div class="cate-2-shape wow fadeInRight" data-wow-delay="1200ms"
            style="visibility: visible; animation-delay: 1200ms; animation-name: fadeInRight;">
-        <img src="@/assets/img/bg-img/home-2/shape-6.png" alt="">
+        <img src="/img/bg-img/home-2/shape-6.png" alt="">
       </div>
       <div class="container">
         <div class="row">
@@ -233,17 +233,17 @@
       <!-- Shape -->
       <div class="gra-shape-1 wow fadeInDown" data-wow-delay="700ms"
            style="visibility: visible; animation-delay: 700ms; animation-name: fadeInDown;">
-        <img src="@/assets/img/bg-img/home-2/shape-7.png" alt="">
+        <img src="/img/bg-img/home-2/shape-7.png" alt="">
       </div>
       <div class="gra-shape-2">
-        <img src="@/assets/img/bg-img/home-2/shape-8.png" alt="">
+        <img src="/img/bg-img/home-2/shape-8.png" alt="">
       </div>
       <div class="gra-shape-3 wow fadeInRight" data-wow-delay="1000ms"
            style="visibility: visible; animation-delay: 1000ms; animation-name: fadeInRight;">
-        <img src="@/assets/img/bg-img/home-2/shape-9.png" alt="">
+        <img src="/img/bg-img/home-2/shape-9.png" alt="">
       </div>
       <div class="gra-shape-4">
-        <img src="@/assets/img/bg-img/home-2/shape-10.png" alt="">
+        <img src="/img/bg-img/home-2/shape-10.png" alt="">
       </div>
       <div class="container">
         <div class="row">
@@ -252,13 +252,13 @@
               <div class="certi-img relative wow fadeInRight" data-wow-delay="500ms"
                    style="visibility: visible; animation-delay: 500ms; animation-name: fadeInRight;">
                 <div class="gra-img-1 relative">
-                  <img src="@/assets/img/bg-img/home-2/g-1.png" alt="">
+                  <img src="/img/bg-img/home-2/g-1.png" alt="">
                 </div>
               </div>
               <div class="certi-img-2 wow fadeInLeft" data-wow-delay="700ms"
                    style="visibility: visible; animation-delay: 700ms; animation-name: fadeInLeft;">
                 <div class="gra-img-2">
-                  <img src="@/assets/img/bg-img/home-2/g-2.png" alt="">
+                  <img src="/img/bg-img/home-2/g-2.png" alt="">
                 </div>
               </div>
 
@@ -282,7 +282,7 @@
               <div class="certi-single-card d-flex align-items-center">
                 <div class="certi-border border--primary">
                   <div class="certi-icon bg--primary">
-                    <img src="@/assets/img/bg-img/icons/g-1.png" alt="">
+                    <img src="/img/bg-img/icons/g-1.png" alt="">
                   </div>
                 </div>
                 <div class="certi-card-info">
@@ -295,7 +295,7 @@
               <div class="certi-single-card d-flex align-items-center">
                 <div class="certi-border border--second">
                   <div class="certi-icon bg--second">
-                    <img src="@/assets/img/bg-img/icons/g-2.png" alt="">
+                    <img src="/img/bg-img/icons/g-2.png" alt="">
                   </div>
                 </div>
                 <div class="certi-card-info">
@@ -308,7 +308,7 @@
               <div class="certi-single-card d-flex align-items-center">
                 <div class="certi-border border--navy">
                   <div class="certi-icon bg--navy">
-                    <img src="@/assets/img/bg-img/icons/g-1.png" alt="">
+                    <img src="/img/bg-img/icons/g-1.png" alt="">
                   </div>
                 </div>
                 <div class="certi-card-info">
@@ -343,67 +343,67 @@
                      style="transform: translate3d(-2030px, 0px, 0px); transition: 1s; width: 3770px;">
                   <div class="owl-item cloned" style="width: 190px; margin-right: 100px;">
                     <div class="single-slider">
-                      <a href="#"><img src="@/assets/img/bg-img/home-2/s-2.png" alt=""></a>
+                      <a href="#"><img src="/img/bg-img/home-2/s-2.png" alt=""></a>
                     </div>
                   </div>
                   <div class="owl-item cloned" style="width: 190px; margin-right: 100px;">
                     <div class="single-slider">
-                      <a href="#"><img src="@/assets/img/bg-img/home-2/s-3.png" alt=""></a>
+                      <a href="#"><img src="/img/bg-img/home-2/s-3.png" alt=""></a>
                     </div>
                   </div>
                   <div class="owl-item cloned" style="width: 190px; margin-right: 100px;">
                     <div class="single-slider">
-                      <a href="#"><img src="@/assets/img/bg-img/home-2/s-4.png" alt=""></a>
+                      <a href="#"><img src="/img/bg-img/home-2/s-4.png" alt=""></a>
                     </div>
                   </div>
                   <div class="owl-item cloned" style="width: 190px; margin-right: 100px;">
                     <div class="single-slider">
-                      <a href="#"><img src="@/assets/img/bg-img/home-2/s-3.png" alt=""></a>
+                      <a href="#"><img src="/img/bg-img/home-2/s-3.png" alt=""></a>
                     </div>
                   </div>
                   <div class="owl-item" style="width: 190px; margin-right: 100px;">
                     <div class="single-slider">
-                      <a href="#"><img src="@/assets/img/bg-img/home-2/s-1.png" alt=""></a>
+                      <a href="#"><img src="/img/bg-img/home-2/s-1.png" alt=""></a>
                     </div>
                   </div>
                   <div class="owl-item" style="width: 190px; margin-right: 100px;">
                     <div class="single-slider">
-                      <a href="#"><img src="@/assets/img/bg-img/home-2/s-2.png" alt=""></a>
+                      <a href="#"><img src="/img/bg-img/home-2/s-2.png" alt=""></a>
                     </div>
                   </div>
                   <div class="owl-item" style="width: 190px; margin-right: 100px;">
                     <div class="single-slider">
-                      <a href="#"><img src="@/assets/img/bg-img/home-2/s-3.png" alt=""></a>
+                      <a href="#"><img src="/img/bg-img/home-2/s-3.png" alt=""></a>
                     </div>
                   </div>
                   <div class="owl-item active" style="width: 190px; margin-right: 100px;">
                     <div class="single-slider">
-                      <a href="#"><img src="@/assets/img/bg-img/home-2/s-4.png" alt=""></a>
+                      <a href="#"><img src="/img/bg-img/home-2/s-4.png" alt=""></a>
                     </div>
                   </div>
                   <div class="owl-item active" style="width: 190px; margin-right: 100px;">
                     <div class="single-slider">
-                      <a href="#"><img src="@/assets/img/bg-img/home-2/s-3.png" alt=""></a>
+                      <a href="#"><img src="/img/bg-img/home-2/s-3.png" alt=""></a>
                     </div>
                   </div>
                   <div class="owl-item cloned active" style="width: 190px; margin-right: 100px;">
                     <div class="single-slider">
-                      <a href="#"><img src="@/assets/img/bg-img/home-2/s-1.png" alt=""></a>
+                      <a href="#"><img src="/img/bg-img/home-2/s-1.png" alt=""></a>
                     </div>
                   </div>
                   <div class="owl-item cloned active" style="width: 190px; margin-right: 100px;">
                     <div class="single-slider">
-                      <a href="#"><img src="@/assets/img/bg-img/home-2/s-2.png" alt=""></a>
+                      <a href="#"><img src="/img/bg-img/home-2/s-2.png" alt=""></a>
                     </div>
                   </div>
                   <div class="owl-item cloned" style="width: 190px; margin-right: 100px;">
                     <div class="single-slider">
-                      <a href="#"><img src="@/assets/img/bg-img/home-2/s-3.png" alt=""></a>
+                      <a href="#"><img src="/img/bg-img/home-2/s-3.png" alt=""></a>
                     </div>
                   </div>
                   <div class="owl-item cloned" style="width: 190px; margin-right: 100px;">
                     <div class="single-slider">
-                      <a href="#"><img src="@/assets/img/bg-img/home-2/s-4.png" alt=""></a>
+                      <a href="#"><img src="/img/bg-img/home-2/s-4.png" alt=""></a>
                     </div>
                   </div>
                 </div>
@@ -421,7 +421,7 @@
     <div class="counter-area-home-2">
       <div class="counter-shape wow fadeInLeft" data-wow-delay="900ms"
            style="visibility: visible; animation-delay: 900ms; animation-name: fadeInLeft;">
-        <img src="@/assets/img/bg-img/counter-shape.png" alt="">
+        <img src="/img/bg-img/counter-shape.png" alt="">
       </div>
       <div class="container">
         <div class="row justify-content-center">
@@ -478,20 +478,20 @@
     <div class="portfolio-area">
       <!-- Shape -->
       <div class="gallery-curbe-shape">
-        <img src="@/assets/img/bg-img/hero-2-shape.png" alt="">
+        <img src="/img/bg-img/hero-2-shape.png" alt="">
       </div>
       <div class="g-shape-2 wow fadeInDown animated" data-wow-delay="700ms"
            style="visibility: visible; animation-delay: 700ms; animation-name: spin;">
-        <img src="@/assets/img/bg-img/home-2/shape-20.png" alt="">
+        <img src="/img/bg-img/home-2/shape-20.png" alt="">
       </div>
 
       <div class="g-shape-3">
-        <img src="@/assets/img/bg-img/home-2/shape-19.png" alt="">
+        <img src="/img/bg-img/home-2/shape-19.png" alt="">
       </div>
 
       <div class="g-shape-1 wow fadeInDown" data-wow-delay="700ms"
            style="visibility: visible; animation-delay: 700ms; animation-name: fadeInDown;">
-        <img src="@/assets/img/bg-img/home-2/shape-18.png" alt="">
+        <img src="/img/bg-img/home-2/shape-18.png" alt="">
       </div>
       <div class="container">
         <div class="row justify-content-center">
@@ -511,13 +511,13 @@
             <div class="portfolio-card border--pri-1">
               <div class="portfolio-image  wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="200ms"
                    style="visibility: visible; animation-duration: 1000ms; animation-delay: 200ms; animation-name: fadeInUp;">
-                <img src="@/assets/img/bg-img/home-2/p-1.png" alt="">
+                <img src="/img/bg-img/home-2/p-1.png" alt="">
 
                 <!-- Overlay Content -->
                 <div class="overlay-content d-flex align-items-center justify-content-center">
                   <div class="text-center venobox-area">
                     <a class="venobox mb-3 vbox-item" data-maxwidth="800px" data-gall="portfolio"
-                       href="@/assets/img/bg-img/home-2/p-1.png">
+                       href="/img/bg-img/home-2/p-1.png">
                       <span class="icon-Arrow-1"></span>
                     </a>
                   </div>
@@ -528,13 +528,13 @@
             <div class="portfolio-card border--pri-1 mt-20">
               <div class="portfolio-image wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="200ms"
                    style="visibility: visible; animation-duration: 1000ms; animation-delay: 200ms; animation-name: fadeInUp;">
-                <img src="@/assets/img/bg-img/home-2/p-2.png" alt="">
+                <img src="/img/bg-img/home-2/p-2.png" alt="">
 
                 <!-- Overlay Content -->
                 <div class="overlay-content d-flex align-items-center justify-content-center">
                   <div class="text-center">
                     <a class="venobox mb-3 vbox-item" data-maxwidth="800px" data-gall="portfolio"
-                       href="@/assets/img/bg-img/home-2/p-2.png">
+                       href="/img/bg-img/home-2/p-2.png">
                       <span class="icon-Arrow-1"></span>
                     </a>
                   </div>
@@ -548,13 +548,13 @@
             <div class="portfolio-card border--dark-1">
               <div class="portfolio-image wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="200ms"
                    style="visibility: visible; animation-duration: 1000ms; animation-delay: 200ms; animation-name: fadeInUp;">
-                <img src="@/assets/img/bg-img/home-2/p-3.png" alt="">
+                <img src="/img/bg-img/home-2/p-3.png" alt="">
 
                 <!-- Overlay Content -->
                 <div class="overlay-content d-flex align-items-center justify-content-center">
                   <div class="text-center">
                     <a class="venobox mb-3 vbox-item" data-maxwidth="800px" data-gall="portfolio"
-                       href="@/assets/img/bg-img/home-2/p-3.png">
+                       href="/img/bg-img/home-2/p-3.png">
                       <span class="icon-Arrow-1"></span>
                     </a>
                   </div>
@@ -565,13 +565,13 @@
             <div class="portfolio-card border--navy-1 mt-20">
               <div class="portfolio-image wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="200ms"
                    style="visibility: visible; animation-duration: 1000ms; animation-delay: 200ms; animation-name: fadeInUp;">
-                <img src="@/assets/img/bg-img/home-2/p-4.png" alt="">
+                <img src="/img/bg-img/home-2/p-4.png" alt="">
 
                 <!-- Overlay Content -->
                 <div class="overlay-content d-flex align-items-center justify-content-center">
                   <div class="text-center">
                     <a class="venobox mb-3 vbox-item" data-maxwidth="800px" data-gall="portfolio"
-                       href="@/assets/img/bg-img/home-2/p-4.png">
+                       href="/img/bg-img/home-2/p-4.png">
                       <span class="icon-Arrow-1"></span>
                     </a>
                   </div>
@@ -585,13 +585,13 @@
             <div class="portfolio-card border--pri-2">
               <div class="portfolio-image wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="200ms"
                    style="visibility: visible; animation-duration: 1000ms; animation-delay: 200ms; animation-name: fadeInUp;">
-                <img src="@/assets/img/bg-img/home-2/p-5.png" alt="">
+                <img src="/img/bg-img/home-2/p-5.png" alt="">
 
                 <!-- Overlay Content -->
                 <div class="overlay-content d-flex align-items-center justify-content-center">
                   <div class="text-center">
                     <a class="venobox mb-3 vbox-item" data-maxwidth="800px" data-gall="portfolio"
-                       href="@/assets/img/bg-img/home-2/p-5.png">
+                       href="/img/bg-img/home-2/p-5.png">
                       <span class="icon-Arrow-1"></span>
                     </a>
                   </div>
@@ -605,13 +605,13 @@
             <div class="portfolio-card border--pri-1">
               <div class="portfolio-image wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="200ms"
                    style="visibility: visible; animation-duration: 1000ms; animation-delay: 200ms; animation-name: fadeInUp;">
-                <img src="@/assets/img/bg-img/home-2/p-6.png" alt="">
+                <img src="/img/bg-img/home-2/p-6.png" alt="">
 
                 <!-- Overlay Content -->
                 <div class="overlay-content d-flex align-items-center justify-content-center">
                   <div class="text-center">
                     <a class="venobox mb-3 vbox-item" data-maxwidth="800px" data-gall="portfolio"
-                       href="@/assets/img/bg-img/home-2/p-6.png">
+                       href="/img/bg-img/home-2/p-6.png">
                       <span class="icon-Arrow-1"></span>
                     </a>
                   </div>
@@ -622,13 +622,13 @@
             <div class="portfolio-card border--navy-1 mt-20">
               <div class="portfolio-image wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="200ms"
                    style="visibility: visible; animation-duration: 1000ms; animation-delay: 200ms; animation-name: fadeInUp;">
-                <img src="@/assets/img/bg-img/home-2/p-7.png" alt="">
+                <img src="/img/bg-img/home-2/p-7.png" alt="">
 
                 <!-- Overlay Content -->
                 <div class="overlay-content d-flex align-items-center justify-content-center">
                   <div class="text-center">
                     <a class="venobox mb-3 vbox-item" data-maxwidth="800px" data-gall="portfolio"
-                       href="@/assets/img/bg-img/home-2/p-7.png">
+                       href="/img/bg-img/home-2/p-7.png">
                       <span class="icon-Arrow-1"></span>
                     </a>
                   </div>
@@ -642,16 +642,16 @@
     <div class="upcoming-event-area relative">
       <!-- all shape img -->
       <div class="up-shape-1">
-        <img src="@/assets/img/bg-img/home-2/shpe-11.png" alt="">
+        <img src="/img/bg-img/home-2/shpe-11.png" alt="">
       </div>
       <div class="up-shape-2 wow fadeInUp" data-wow-delay="700ms"
            style="visibility: visible; animation-delay: 700ms; animation-name: fadeInUp;">
-        <img src="@/assets/img/bg-img/home-2/shpe-12.png" alt="">
+        <img src="/img/bg-img/home-2/shpe-12.png" alt="">
       </div>
 
       <div class="up-shape-3 wow fadeInUp" data-wow-delay="1500ms"
            style="visibility: visible; animation-delay: 1500ms; animation-name: fadeInUp;">
-        <img src="@/assets/img/bg-img/home-2/shpe-13.png" alt="">
+        <img src="/img/bg-img/home-2/shpe-13.png" alt="">
       </div>
 
       <div class="container">
@@ -671,7 +671,7 @@
             <!-- Image -->
             <div class="event-image wow fadeInUp" data-wow-delay="700ms"
                  style="visibility: visible; animation-delay: 700ms; animation-name: fadeInUp;">
-              <img src="@/assets/img/bg-img/event.png" alt="">
+              <img src="/img/bg-img/event.png" alt="">
             </div>
           </div>
 
@@ -735,10 +735,10 @@
     <div class="client-area-home-2 relative">
       <!-- Curbe shape -->
       <div class="client-curbe-shape">
-        <img src="@/assets/img/bg-img/home-2/shape-14.png" alt="">
+        <img src="/img/bg-img/home-2/shape-14.png" alt="">
       </div>
       <div class="client-2-shape-1">
-        <img src="@/assets/img/bg-img/home-4/shape-6.png" alt="">
+        <img src="/img/bg-img/home-4/shape-6.png" alt="">
       </div>
       <div class="container">
         <div class="row justify-content-center">
@@ -757,7 +757,7 @@
           <div class="col-md-4">
             <div class="client-image-home-2 relative  wow fadeInLeft" data-wow-delay="700ms"
                  style="visibility: visible; animation-delay: 700ms; animation-name: fadeInLeft;">
-              <img class="relative" src="@/assets/img/bg-img/home-2/client.jpeg.jpg" alt="">
+              <img class="relative" src="/img/bg-img/home-2/client.jpeg.jpg" alt="">
               <div class="c-2-border-1"></div>
               <div class="c-2-border-2"></div>
               <div class="c-2-border-3"></div>
@@ -934,11 +934,11 @@
     <div class="faq-area">
       <!-- Shape -->
       <div class="faq-shape-1">
-        <img class="wow fadeInDown" data-wow-delay="500ms" src="@/assets/img/bg-img/home-2/shape-21.png" alt=""
+        <img class="wow fadeInDown" data-wow-delay="500ms" src="/img/bg-img/home-2/shape-21.png" alt=""
              style="visibility: visible; animation-delay: 500ms; animation-name: fadeInDown;">
       </div>
       <div class="faq-shape-2">
-        <img src="@/assets/img/bg-img/home-2/shape-22.png" alt="">
+        <img src="/img/bg-img/home-2/shape-22.png" alt="">
       </div>
       <div class="container">
         <div class="row justify-content-center">
@@ -1067,26 +1067,26 @@
       </div>
     </div>
     <div class="knowledge-cta-area-2 bg--navy bg-img bg-fixed"
-         style="background-image: url(@/assets/img/bg-img/home-2/shape-15.png);">
+         style="background-image: url(/img/bg-img/home-2/shape-15.png);">
       <!-- Shape -->
       <div class="curbe-shape-cta-1  wow fadeInLeft" data-wow-delay="500ms"
            style="visibility: visible; animation-delay: 500ms; animation-name: fadeInLeft;">
-        <img src="@/assets/img/bg-img/home-2/shape-14.png" alt="">
+        <img src="/img/bg-img/home-2/shape-14.png" alt="">
       </div>
       <div class="curbe-shape-cta-2 ">
-        <img src="@/assets/img/bg-img/home-2/shape-16.png" alt="">
+        <img src="/img/bg-img/home-2/shape-16.png" alt="">
       </div>
       <!-- Vector img -->
       <div class="knowledge-per-img wow fadeInUp" data-wow-delay="900ms"
            style="visibility: visible; animation-delay: 900ms; animation-name: fadeInUp;">
-        <img src="@/assets/img/bg-img/home-2/c-1.png" alt="">
+        <img src="/img/bg-img/home-2/c-1.png" alt="">
       </div>
 
       <div class="container">
         <div class="row">
           <div class="col-md-6">
             <div class="knowledge-image">
-              <img src="@/assets/img/bg-img/blog-2.png" alt="">
+              <img src="/img/bg-img/blog-2.png" alt="">
             </div>
           </div>
 
@@ -1121,7 +1121,7 @@
       </div>
     </div>
     <div class="blog-area-home-2 relative">
-      <div class="blog-shape-1"><img src="@/assets/img/bg-img/skill-shap.png" alt=""></div>
+      <div class="blog-shape-1"><img src="/img/bg-img/skill-shap.png" alt=""></div>
       <div class="container">
         <div class="row justify-content-center">
           <!-- title -->
@@ -1141,7 +1141,7 @@
               <div class="single-blog-card-2 relative">
                 <!-- Image -->
                 <div class="blog-image-2 relative">
-                  <img class="relative" src="@/assets/img/bg-img/blog-2.png" alt="">
+                  <img class="relative" src="/img/bg-img/blog-2.png" alt="">
                   <div class="date-badge wow fadeInLeft" data-wow-delay="700ms"
                        style="visibility: visible; animation-delay: 700ms; animation-name: fadeInLeft;">
                     <div>
@@ -1168,7 +1168,7 @@
               <div class="single-blog-card-2 relative">
                 <!-- Image -->
                 <div class="blog-image-2 relative">
-                  <img class="relative" src="@/assets/img/bg-img/blog-3.png" alt="">
+                  <img class="relative" src="/img/bg-img/blog-3.png" alt="">
                   <div class="date-badge wow fadeInLeft" data-wow-delay="900ms"
                        style="visibility: visible; animation-delay: 900ms; animation-name: fadeInLeft;">
                     <div>

@@ -7,6 +7,20 @@ const router = createRouter({
       path: '',
       name: 'Welcome',
       component: () => import('../views/Welcome.vue'),
+    }, {
+      path: '/course',
+      name: 'Course',
+      children: [
+        {
+          path: 'list',
+          name: 'CourseList',
+          component: () => import('../views/course/CourseList.vue'),
+        }, {
+          path: 'grid',
+          name: 'CourseGrid',
+          component: () => import('../views/course/CourseGrid.vue'),
+        }
+      ]
     }
   ],
 })

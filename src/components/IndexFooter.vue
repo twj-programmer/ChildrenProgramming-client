@@ -6,15 +6,15 @@
   <footer class="footer-wrap bg--dark">
     <!-- Shape -->
     <div class="f-shape-1 wow fadeInUp" data-wow-delay="900ms" style="visibility: visible; animation-delay: 900ms; animation-name: fadeInUp;">
-      <img src="@/assets/img/bg-img/f-shap-1.png" alt="">
+      <img src="/img/bg-img/f-shap-1.png" alt="">
     </div>
     <!-- Shape -->
     <div class="f-shape-2 wow fadeInRight" data-wow-delay="700ms" style="visibility: visible; animation-delay: 700ms; animation-name: fadeInRight;">
-      <img src="@/assets/img/bg-img/f-shap-2.png" alt="">
+      <img src="/img/bg-img/f-shap-2.png" alt="">
     </div>
     <!-- Shape -->
     <div class="f-shape-3 wow fadeInRight" data-wow-delay="500ms" style="visibility: visible; animation-delay: 500ms; animation-name: fadeInRight;">
-      <img src="@/assets/img/bg-img/f-shape-3.png" alt="">
+      <img src="/img/bg-img/f-shape-3.png" alt="">
     </div>
     <div class="footer-content">
       <div class="container">
@@ -22,7 +22,7 @@
           <div class="col-12 col-sm-6 col-lg-3">
             <div class="me-4">
               <a class="mb-4 d-block footer-logo" href="#">
-                <img src="@/assets/img/core-img/logo-2.png" alt="">
+                <img src="/img/core-img/logo-2.png" alt="">
               </a>
               <p class="footer-desc">超过 18,000+ 青少年加入我们的学习之旅 </p>
 

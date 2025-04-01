@@ -8,7 +8,7 @@ const routes = [
   {name: '首页', route: '/'},
   {
     name: '课程列表', children: [
-      {name: '购买课程', route: ''},
+      {name: '购买课程', route: '/course/list'},
       {name: '充值会员', route: ''}
     ]
   },
@@ -32,7 +32,7 @@ const routes = [
         <!-- Navbar Brand -->
         <div class="mobile-menu">
           <a class="navbar-brand" href="index.html">
-            <img src="@/assets/img/core-img/logo-2.png" alt="Brand">
+            <img src="/img/core-img/logo-2.png" alt="Brand">
           </a>
         </div>
 
